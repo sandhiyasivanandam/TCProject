@@ -13,6 +13,7 @@
   //Sets the text Project.Variables.Password1 in the 'passwordboxPassword' text editor.
   Aliases.browser.pageWebOrdersLogin.formAspnetform.passwordboxPassword.SetText(Project.Variables.Password1);
   //Clicks the 'submitbuttonLogin' button.
-  Aliases.browser.pageWebOrdersLogin.formAspnetform.submitbuttonLogin.ClickButton();
+ // Aliases.browser.pageWebOrdersLogin.formAspnetform.submitbuttonLogin.ClickButton();
   //Modified code
+  Aliases.browser.pageWebOrdersLogin.formAspnetform.submitbuttonLogin.ClickButton();
 }
